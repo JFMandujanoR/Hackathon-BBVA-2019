@@ -6,6 +6,11 @@ Modelo xgboost para la predicción de la colocación de créditos al consumo de 
 
 
 
+--------El archivo submit_los_ajolotes.csv es nuestra salida final y entregable del hackathon------
+
+
+
+
 Integrantes:
 
 Angel Balderas Paredes-CIMAT
