@@ -6,6 +6,7 @@ Modelo xgboost para la predicción de la colocación de créditos al consumo de 
 
 También contine los códigos en python para la descarga de variables de análisis de sentimiento.
 
+code_credito.R es nuestro script principal y se alimenta de los archivos datoss.csv y datoss_pred.csv
 
 ---------------------------------------------------------------------------------------------------
 --------El archivo submit_los_ajolotes.csv es nuestra salida final y entregable del hackathon------
