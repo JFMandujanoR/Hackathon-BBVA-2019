@@ -274,7 +274,7 @@ df2=as.data.frame(df2)
 
 colnames(df2)='prediction'
 
-write.csv(df2,'predicciones_futuro.csv')
+write.csv(df2,'submit_los_ajolotes.csv')
 
 
 
